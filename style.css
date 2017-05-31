@@ -36,12 +36,12 @@ h1, h2 {
 }
 
 #photo {
-  width: 150px;
+  width: 300px;
 }
 
 
 
-#project-list {
+.project-list {
   display: flex;                  /* Flex box */
   flex-direction: row;            /* Left to right */
   flex-wrap: wrap;                /* Wrap content */
@@ -49,8 +49,9 @@ h1, h2 {
 }
 
 .project {
-  flex: 0 0 140px;                /* No grow/shrink, 140px width */
+ /* flex: 0 0 140px;                /* No grow/shrink, 140px width */
   height: 140px;
+  width: 140px;
   margin-bottom: 10px;
   background-color: #7AA3CC;
 }
