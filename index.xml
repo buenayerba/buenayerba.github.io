@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yerbol Aussat on Yerbol Aussat</title>
+    <link>http://yerbolaussat.github.io/</link>
+    <description>Recent content in Yerbol Aussat on Yerbol Aussat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Smart Lighting (IoT)</title>
+      <link>http://yerbolaussat.github.io/project/smart-lighting/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/smart-lighting/</guid>
+      <description>
+
+&lt;h3 id=&#34;in-progress&#34;&gt;In Progress &amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Lighting load accounts for approximately one third of the energy consumption in modern buildings. Thus, it is important to reduce this load, ideally without compromising comfort of building occupants.&lt;/p&gt;
+
+&lt;p&gt;We design a power-optimal lighting control system that takes into account both occupancy and daylight changes, based on input from multiple sensors located at each work surface. We came up with a linear-programming-based control algorithm that minimizes the power consumption, while dynamically accommodating heterogeneous illuminance requirements and changes in occupancy.&lt;/p&gt;
+
+&lt;p&gt;The system consists of the main computing module, dimmable LED luminaires, and &amp;ldquo;per-desk&amp;rdquo; sensing modules that sense occupancy and illuminance. All components of the system communicate wirelessly, which makes the system very easy to deploy.&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Daylight contribution&#34; href=&#34;http://yerbolaussat.github.io/img/smart-lighting-1.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://yerbolaussat.github.io/img/smart-lighting-1.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-2&#34; data-caption=&#34;No daylight&#34; href=&#34;http://yerbolaussat.github.io/img/smart-lighting-2.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://yerbolaussat.github.io/img/smart-lighting-2.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-3&#34; data-caption=&#34;No daylight&#34; href=&#34;http://yerbolaussat.github.io/img/smart-lighting-3.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://yerbolaussat.github.io/img/smart-lighting-3.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book-AR: Augmented Reality for Books on a Bookshelf</title>
+      <link>http://yerbolaussat.github.io/project/ar-bookspine/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/ar-bookspine/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://yerbolaussat.github.io/files/book-ar-report.pdf&#34; target=&#34;_blank&#34;&gt;See Report&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/augmented-reality-for-book-spines&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;br /&gt;
+Retrieving information about books on a bookshelf by simply pointing a camera at them could make the library and book- store browsing experience more convenient and effective. This paper presents Book-AR, an interactive real-time augmented reality (AR) system that augments books while they are on a bookshelf. Our system recognizes a desired book by its spine, and displays an AR menu with relevant book information, such as genre, ratings, prices and similar books. The user can interact with Book-AR by clicking on book spines to open and close the interactive menu, and swiping left and right to switch between pages of the menu. The paper discusses a prototype of the system and explains its implementation techniques.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/UObxvmxuuC0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dog Breed Identification</title>
+      <link>http://yerbolaussat.github.io/project/dog-classification/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://yerbolaussat.github.io/files/dog-breed-classification-report.pdf&#34; target=&#34;_blank&#34;&gt;See Report&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/dog-breed-identification&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;br /&gt;
+In this project we attempted to build a classifier capable of identifying a dog’s breed based on its photo. Considering that on a high level dogs of different breeds can look very similar, it is a challenging task even for humans.&lt;/p&gt;
+
+&lt;p&gt;To train and evaluate the model the &lt;a href=&#34;http://faceserv.cs.columbia.edu/DogData/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Columbia Dogs with Parts”&lt;/a&gt; dataset, containing 8,351 real-world images of 133 dog breeds, was used. The number of photos per breed ranged from 33 to 96. To tackle this problem, transfer learning, data augmentation and ensemble learning techniques were employed.&lt;/p&gt;
+
+&lt;p&gt;As a result, the ensemble meta model averaging predictions of five transfer learning models that was trained on an augmented training dataset achieved a testing accuracy rate of 88.40%. In addition, a small CNN that was trained from scratch on an augmented training dataset achieved a testing accuracy rate of 54.42%.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AR Video Player</title>
+      <link>http://yerbolaussat.github.io/project/ar-video-player/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/ar-video-player/</guid>
+      <description>&lt;p&gt;Interactive AR platform that can play videos on any flat surface.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/AR-video-player&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/jed6rGQe_D8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Fingertip and Hand Tracking</title>
+      <link>http://yerbolaussat.github.io/project/k-curv/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/k-curv/</guid>
+      <description>&lt;p&gt;My implementation of k-curvature algorithm for hand and fingertip tracking.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/hand-and-finger-tracking/blob/master/tut_k_curvature_finger_tracking.pdf&#34; target=&#34;_blank&#34;&gt;See Slides&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/hand-and-finger-tracking&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Hand Tracking Demo&#34; href=&#34;http://yerbolaussat.github.io/img/hand-tracking.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://yerbolaussat.github.io/img/hand-tracking.gif&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensor Data Classification for Occupancy Detection</title>
+      <link>http://yerbolaussat.github.io/project/occupancy-detection/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/occupancy-detection/</guid>
+      <description>&lt;p&gt;Accurate determination of office occupancy is an important problem, the solution to which could enable many compelling applications. Heating, ventilation and air conditioning (HVAC) as well as lighting are two major energy consumers in buildings. Previous studies showed that implementing demand driven lighting and HVAC operations could substantially reduce building energy consumption. However, such solutions rely on accurate occupancy information.&lt;/p&gt;
+
+&lt;p&gt;This study evaluates the accuracy of the prediction of occupancy in an office room using data from temperature, light, humidity and carbon dioxide sensor measurements with different statistical classification methods using the open source Python Scikit-Learn library.&lt;/p&gt;
+
+&lt;p&gt;Typically the best accuracies are obtained from training k-Nearest Neighbors (k-NN), Decision Trees (DT) and Random Forrest (RF) models. When all of the features are taken into consideration, the average testing accuracy of 99.4% is achieved by the random forest model. Light has proved to be the best single occupancy predictor. When only carbon dioxide level, humidity, week status (WS) and number of seconds from midnight (SM) are taken into consideration, the random forest model achieves the average testing accuracy of 99.04%. Also, it was shown that using the features extracted from the time stamp, SM and WS, significantly improves prediction accuracy when decision trees or random forest models are used.&lt;/p&gt;
+
+&lt;p&gt;The dataset used in this study is the &lt;a href=&#34;https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+&#34; target=&#34;_blank&#34;&gt;“Occupancy detection data set”&lt;/a&gt; from the UCI Machine Learning Repository.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/occupancy_detection/blob/master/Yerbol_Aussat_Report_IEEE.pdf&#34; target=&#34;_blank&#34;&gt;See Report&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/occupancy_detection&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://yerbolaussat.github.io/files/occupancy_detection_slides.pdf&#34; target=&#34;_blank&#34;&gt;See Slides&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sudoku puzzle as a constraint satisfaction problem.</title>
+      <link>http://yerbolaussat.github.io/project/sudoku-solver/</link>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/sudoku-solver/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/SudokuSolver&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/SudokuSolver/blob/master/Sudoku_Solver_Analysis.pdf&#34; target=&#34;_blank&#34;&gt;See Analysis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Java implementation of a bot that solves Sudoku puzzles.&lt;/p&gt;
+
+&lt;p&gt;The algorithm implements the backtracking search algorithm with forward checking and three heuristics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Minimum remaining values heuristic&lt;/li&gt;
+&lt;li&gt;Minimum degree heuristic&lt;/li&gt;
+&lt;li&gt;Least constraining value heuristic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sudoku Puzzle is modeled as a Constraint Satisfaction Problem (CSP) as follows:&lt;/p&gt;
+
+&lt;p&gt;Variables: 81 variables, one for each square / cell&lt;/p&gt;
+
+&lt;p&gt;Domains: Empty squares have domain {1, 2, 3, 4, 5, 6, 7, 8, 9} and the prefilled squares have a domain consisting of a single value.&lt;/p&gt;
+
+&lt;p&gt;Constraints: There are 27 different Alldiff constraints: one for each row, column and 3x3 box. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alldiff( (0,0), (0,1), (0,2) &amp;hellip; (0,8) )&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alldiff( (1,0), (1,1), (1,2) &amp;hellip; (1,8) )&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alldiff( (0,0), (1,0), (2,0) &amp;hellip; (8,0) )&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alldiff( (0,1), (1,1), (2,1) &amp;hellip; (8,1) )&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alldiff( (0,0), (0,1), (0,2), (1,0), (1,1), (1, 2) , (2,0), (2,1), (2, 2))&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alldiff( (3,0), (3,1), (3,2), (4,0), (4,1), (4, 2) , (5,0), (5,1), (5, 2))
+&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mimic-Emoji Game</title>
+      <link>http://yerbolaussat.github.io/project/mimic-emoji/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/mimic-emoji/</guid>
+      <description>&lt;p&gt;Mimic-Emoji is a game in which a player&amp;rsquo;s goal is to mimic different emoji faces that appear onscreen. If a player successfully mimics an emoji face, he earns a score, and the guessed emoji face is augmented on the player&amp;rsquo;s face.&lt;/p&gt;
+
+&lt;p&gt;This game uses &lt;a href=&#34;https://azure.microsoft.com/en-ca/services/cognitive-services/emotion/&#34; target=&#34;_blank&#34;&gt;Microsoft Emotion API&lt;/a&gt; that takes a facial expression in an image as an input, and returns the confidence across a set of emotions for each face in the image.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/AR-video-player&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;GIF&#34; href=&#34;http://yerbolaussat.github.io/img/mimic.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://yerbolaussat.github.io/img/mimic.gif&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course status tracker</title>
+      <link>http://yerbolaussat.github.io/project/track-courses/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/track-courses/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/track-course-on-quest&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This program uses &lt;a href=&#34;https://www.seleniumhq.org/&#34; target=&#34;_blank&#34;&gt;Selenium Webdriver&lt;/a&gt; to automate checking course status on UWaterloo&amp;rsquo;s Quest portal. Whenever the course of interest becomes available, the program notifies a user.&lt;br /&gt;
+Currently headless PhantomJS driver and browser-based ChromeDrive are supported.&lt;/p&gt;
+
+&lt;h3 id=&#34;to-do&#34;&gt;TO-DO:&lt;/h3&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Implement course status inquiries from Quest portal with Selenium Webdriver&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Implement notifications when a course opens&lt;br /&gt;&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Send a text message / email to the user once the course is open&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Automatically register a user for a course&lt;br /&gt;&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handwritten digit recognition with k-NN</title>
+      <link>http://yerbolaussat.github.io/project/mnist-with-knn/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/mnist-with-knn/</guid>
+      <description>&lt;p&gt;Python implementation of k nearest neighbors classification algorithm.&lt;br /&gt;
+The algorithm is applied to the problem of classifying handwritten digits from images. The performance of the algorithm with different number of neighbors is examined. The results are summarized in a write-up.&lt;br /&gt;
+&lt;a href=&#34;http://yann.lecun.com/exdb/mnist/&#34; target=&#34;_blank&#34;&gt;MNIST data set&lt;/a&gt; is used in this experiment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/knn-algorithm-on-mnist/blob/master/knn-on-mnist.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/knn-algorithm-on-mnist&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handwritten digit recognition with EM algorithm for GMM</title>
+      <link>http://yerbolaussat.github.io/project/mnist-gmm/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/mnist-gmm/</guid>
+      <description>&lt;p&gt;Expectation Maximization (EM) algorithm for Gaussian Mixture Model is derived and implemented. Then, the algorithm is applied to handwritten digit classification problem with &lt;a href=&#34;http://yann.lecun.com/exdb/mnist/&#34; target=&#34;_blank&#34;&gt;MNIST&lt;/a&gt; data set.&lt;br /&gt;
+Derivation and results are summarized in a write-up.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/gmm/blob/master/GMM.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/gmm&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Classification with (Kernel) Logistic Regression</title>
+      <link>http://yerbolaussat.github.io/project/cifar-log-regression/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/cifar-log-regression/</guid>
+      <description>&lt;p&gt;First, Newton algorithm for logistic regression is derived and implemented. Then, the algorithm is applied to image classification problem on &lt;a href=&#34;http://www.cs.toronto.edu/~kriz/cifar.html&#34; target=&#34;_blank&#34;&gt;CIFAR-10&lt;/a&gt; data set. Two strategies for using binary classifier for multi-class classification are used:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One-vs-All strategy&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;One-vs-One strategy Results are summarized in a write-up.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next, kernelized binary logistic regression is derived and implemented. It is tested on &amp;ldquo;cat&amp;rdquo; and &amp;ldquo;dog&amp;rdquo; classes of &lt;a href=&#34;http://www.cs.toronto.edu/~kriz/cifar.html&#34; target=&#34;_blank&#34;&gt;CIFAR-10&lt;/a&gt; data set.&lt;br /&gt;
+All results are summarized in a write-up.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/kernel-logistic-regression/blob/master/(kernel)_logistic_regression.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/kernel-logistic-regression&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Boston Housing Prices with Linear Regression</title>
+      <link>http://yerbolaussat.github.io/project/boston-housing/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/boston-housing/</guid>
+      <description>&lt;p&gt;Python implementation of Ridge and Lasso regression algorithms.&lt;br /&gt;
+Performance of the two algorithms on predicting housing prices in Boston is analyzed and compared. The effect of regularization is studied. All results are summarized in a write-up.&lt;br /&gt;
+&lt;a href=&#34;http://lib.stat.cmu.edu/datasets/boston&#34; target=&#34;_blank&#34;&gt;The Boston house-price data set&lt;/a&gt; is used in this experiment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/linear-regression/blob/master/ridge-and-lasso-regression.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/perceptron-vs-winnow&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spam detection with Perceptron and Winnow Learning algorithms</title>
+      <link>http://yerbolaussat.github.io/project/spam-detection/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/spam-detection/</guid>
+      <description>&lt;p&gt;Python implementation of Perceptron and Winnow learning algorithms.&lt;br /&gt;
+Performance of the two algorithms on the problem of spam detection is analyzed and compared. All results are summarized in a write-up.&lt;br /&gt;
+&lt;a href=&#34;https://archive.ics.uci.edu/ml/datasets/spambase&#34; target=&#34;_blank&#34;&gt;Spambase data set&lt;/a&gt; is used in this experiment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/perceptron-vs-winnow/blob/master/perceptron_and_winnow.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt;.&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/perceptron-vs-winnow&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text classification with Decision Trees and Naive Bayes</title>
+      <link>http://yerbolaussat.github.io/project/text-classification/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/text-classification/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/text_classification&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://github.com/yerbolaussat/text_classification/blob/master/Text%20Classification%20Analysis.pdf&#34; target=&#34;_blank&#34;&gt;See write-up&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Text categorization is an important task in natural language processing and information retrieval. For instance, news articles, emails or blogs are often classified by topics. I implemented a decision tree algorithm and a naive Bayes classification algorithm in Python to learn classifiers that can assign a newsgroup topic to any article.&lt;/p&gt;
+
+&lt;p&gt;A training set and test set of articles with their correct newsgroup label were used. The articles have been pre-processed and converted to the bag of words model. More precisely, each article is converted to a vector of binary values such that each entry indicates whether the document contains a specific word or not.&lt;/p&gt;
+
+&lt;p&gt;Correctness of implementation was verified by comparing the results to those obtained by the sklearn.tree.DecisionTreeClassifier and sklearn.naive bayes.BernoulliNB classifiers available in the Python &lt;a href=&#34;http://scikit-learn.org/stable/&#34; target=&#34;_blank&#34;&gt;scikit-learn library&lt;/a&gt; for machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

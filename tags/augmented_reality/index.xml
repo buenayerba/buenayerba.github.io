@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Augmented_reality on Yerbol Aussat</title>
+    <link>http://yerbolaussat.github.io/tags/augmented_reality/</link>
+    <description>Recent content in Augmented_reality on Yerbol Aussat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://yerbolaussat.github.io/tags/augmented_reality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Book-AR: Augmented Reality for Books on a Bookshelf</title>
+      <link>http://yerbolaussat.github.io/project/ar-bookspine/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/ar-bookspine/</guid>
+      <description>See Report
+See Code
+Retrieving information about books on a bookshelf by simply pointing a camera at them could make the library and book- store browsing experience more convenient and effective. This paper presents Book-AR, an interactive real-time augmented reality (AR) system that augments books while they are on a bookshelf. Our system recognizes a desired book by its spine, and displays an AR menu with relevant book information, such as genre, ratings, prices and similar books.</description>
+    </item>
+    
+  </channel>
+</rss>

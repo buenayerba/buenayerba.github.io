@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Yerbol Aussat</title>
+    <link>http://yerbolaussat.github.io/project/</link>
+    <description>Recent content in Projects on Yerbol Aussat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 20 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://yerbolaussat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart Lighting (IoT)</title>
+      <link>http://yerbolaussat.github.io/project/smart-lighting/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/smart-lighting/</guid>
+      <description>In Progress &amp;hellip; Lighting load accounts for approximately one third of the energy consumption in modern buildings. Thus, it is important to reduce this load, ideally without compromising comfort of building occupants.
+We design a power-optimal lighting control system that takes into account both occupancy and daylight changes, based on input from multiple sensors located at each work surface. We came up with a linear-programming-based control algorithm that minimizes the power consumption, while dynamically accommodating heterogeneous illuminance requirements and changes in occupancy.</description>
+    </item>
+    
+    <item>
+      <title>Book-AR: Augmented Reality for Books on a Bookshelf</title>
+      <link>http://yerbolaussat.github.io/project/ar-bookspine/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/ar-bookspine/</guid>
+      <description>See Report
+See Code
+Retrieving information about books on a bookshelf by simply pointing a camera at them could make the library and book- store browsing experience more convenient and effective. This paper presents Book-AR, an interactive real-time augmented reality (AR) system that augments books while they are on a bookshelf. Our system recognizes a desired book by its spine, and displays an AR menu with relevant book information, such as genre, ratings, prices and similar books.</description>
+    </item>
+    
+    <item>
+      <title>Dog Breed Identification</title>
+      <link>http://yerbolaussat.github.io/project/dog-classification/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
+      <description>See Report
+See Code
+In this project we attempted to build a classifier capable of identifying a dog’s breed based on its photo. Considering that on a high level dogs of different breeds can look very similar, it is a challenging task even for humans.
+To train and evaluate the model the &amp;ldquo;Columbia Dogs with Parts” dataset, containing 8,351 real-world images of 133 dog breeds, was used. The number of photos per breed ranged from 33 to 96.</description>
+    </item>
+    
+    <item>
+      <title>AR Video Player</title>
+      <link>http://yerbolaussat.github.io/project/ar-video-player/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/ar-video-player/</guid>
+      <description>Interactive AR platform that can play videos on any flat surface.
+See Code
+  </description>
+    </item>
+    
+    <item>
+      <title>Fingertip and Hand Tracking</title>
+      <link>http://yerbolaussat.github.io/project/k-curv/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/k-curv/</guid>
+      <description>My implementation of k-curvature algorithm for hand and fingertip tracking.
+See Slides
+See Code
+  </description>
+    </item>
+    
+    <item>
+      <title>Sensor Data Classification for Occupancy Detection</title>
+      <link>http://yerbolaussat.github.io/project/occupancy-detection/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/occupancy-detection/</guid>
+      <description>Accurate determination of office occupancy is an important problem, the solution to which could enable many compelling applications. Heating, ventilation and air conditioning (HVAC) as well as lighting are two major energy consumers in buildings. Previous studies showed that implementing demand driven lighting and HVAC operations could substantially reduce building energy consumption. However, such solutions rely on accurate occupancy information.
+This study evaluates the accuracy of the prediction of occupancy in an office room using data from temperature, light, humidity and carbon dioxide sensor measurements with different statistical classification methods using the open source Python Scikit-Learn library.</description>
+    </item>
+    
+    <item>
+      <title>Sudoku puzzle as a constraint satisfaction problem.</title>
+      <link>http://yerbolaussat.github.io/project/sudoku-solver/</link>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/sudoku-solver/</guid>
+      <description>See Code
+See Analysis
+Java implementation of a bot that solves Sudoku puzzles.
+The algorithm implements the backtracking search algorithm with forward checking and three heuristics:
+ Minimum remaining values heuristic Minimum degree heuristic Least constraining value heuristic  Sudoku Puzzle is modeled as a Constraint Satisfaction Problem (CSP) as follows:
+Variables: 81 variables, one for each square / cell
+Domains: Empty squares have domain {1, 2, 3, 4, 5, 6, 7, 8, 9} and the prefilled squares have a domain consisting of a single value.</description>
+    </item>
+    
+    <item>
+      <title>Mimic-Emoji Game</title>
+      <link>http://yerbolaussat.github.io/project/mimic-emoji/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/mimic-emoji/</guid>
+      <description>Mimic-Emoji is a game in which a player&amp;rsquo;s goal is to mimic different emoji faces that appear onscreen. If a player successfully mimics an emoji face, he earns a score, and the guessed emoji face is augmented on the player&amp;rsquo;s face.
+This game uses Microsoft Emotion API that takes a facial expression in an image as an input, and returns the confidence across a set of emotions for each face in the image.</description>
+    </item>
+    
+    <item>
+      <title>Course status tracker</title>
+      <link>http://yerbolaussat.github.io/project/track-courses/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/track-courses/</guid>
+      <description>See Code
+This program uses Selenium Webdriver to automate checking course status on UWaterloo&amp;rsquo;s Quest portal. Whenever the course of interest becomes available, the program notifies a user.
+Currently headless PhantomJS driver and browser-based ChromeDrive are supported.
+TO-DO: Implement course status inquiries from Quest portal with Selenium Webdriver Implement notifications when a course opens
+ Send a text message / email to the user once the course is open Automatically register a user for a course</description>
+    </item>
+    
+    <item>
+      <title>Handwritten digit recognition with k-NN</title>
+      <link>http://yerbolaussat.github.io/project/mnist-with-knn/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/mnist-with-knn/</guid>
+      <description>Python implementation of k nearest neighbors classification algorithm.
+The algorithm is applied to the problem of classifying handwritten digits from images. The performance of the algorithm with different number of neighbors is examined. The results are summarized in a write-up.
+MNIST data set is used in this experiment.
+See a write-up with experiment results.
+See Code</description>
+    </item>
+    
+    <item>
+      <title>Handwritten digit recognition with EM algorithm for GMM</title>
+      <link>http://yerbolaussat.github.io/project/mnist-gmm/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/mnist-gmm/</guid>
+      <description>Expectation Maximization (EM) algorithm for Gaussian Mixture Model is derived and implemented. Then, the algorithm is applied to handwritten digit classification problem with MNIST data set.
+Derivation and results are summarized in a write-up.
+See a write-up with experiment results.
+See Code</description>
+    </item>
+    
+    <item>
+      <title>Image Classification with (Kernel) Logistic Regression</title>
+      <link>http://yerbolaussat.github.io/project/cifar-log-regression/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/cifar-log-regression/</guid>
+      <description>First, Newton algorithm for logistic regression is derived and implemented. Then, the algorithm is applied to image classification problem on CIFAR-10 data set. Two strategies for using binary classifier for multi-class classification are used:
+ One-vs-All strategy
+ One-vs-One strategy Results are summarized in a write-up.
+  Next, kernelized binary logistic regression is derived and implemented. It is tested on &amp;ldquo;cat&amp;rdquo; and &amp;ldquo;dog&amp;rdquo; classes of CIFAR-10 data set.
+All results are summarized in a write-up.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Boston Housing Prices with Linear Regression</title>
+      <link>http://yerbolaussat.github.io/project/boston-housing/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/boston-housing/</guid>
+      <description>Python implementation of Ridge and Lasso regression algorithms.
+Performance of the two algorithms on predicting housing prices in Boston is analyzed and compared. The effect of regularization is studied. All results are summarized in a write-up.
+The Boston house-price data set is used in this experiment.
+See a write-up with experiment results.
+See Code</description>
+    </item>
+    
+    <item>
+      <title>Spam detection with Perceptron and Winnow Learning algorithms</title>
+      <link>http://yerbolaussat.github.io/project/spam-detection/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/spam-detection/</guid>
+      <description>Python implementation of Perceptron and Winnow learning algorithms.
+Performance of the two algorithms on the problem of spam detection is analyzed and compared. All results are summarized in a write-up.
+Spambase data set is used in this experiment.
+See a write-up.
+See Code</description>
+    </item>
+    
+    <item>
+      <title>Text classification with Decision Trees and Naive Bayes</title>
+      <link>http://yerbolaussat.github.io/project/text-classification/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/text-classification/</guid>
+      <description>See Code
+See write-up
+Text categorization is an important task in natural language processing and information retrieval. For instance, news articles, emails or blogs are often classified by topics. I implemented a decision tree algorithm and a naive Bayes classification algorithm in Python to learn classifiers that can assign a newsgroup topic to any article.
+A training set and test set of articles with their correct newsgroup label were used. The articles have been pre-processed and converted to the bag of words model.</description>
+    </item>
+    
+    <item>
+      <title>Variable Elimination Algorithm</title>
+      <link>http://yerbolaussat.github.io/project/var-ilimination/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/var-ilimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calendar App (OOD)</title>
+      <link>http://yerbolaussat.github.io/project/ood_calendar/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/ood_calendar/</guid>
+      <description>See Code</description>
+    </item>
+    
+    <item>
+      <title>Automated Storage and Retrieval System</title>
+      <link>http://yerbolaussat.github.io/project/go-getters/</link>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/go-getters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balance Car</title>
+      <link>http://yerbolaussat.github.io/project/hot-wheelz/</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/hot-wheelz/</guid>
+      <description>The Balance Car is a free-rolling car with a tilting balance platform mounted on top. The balance platform, controlled by a servo-motor and microcontroller, responds to both the tilt (pitch) and the longitudinal acceleration of the car so that a small object will be cradled on the platform as the car rolls down the roll-car track. A 9 degree-of-freedom inertial measurement unit (IMU) mounted on the car sends angular velocity, acceleration, and heading data to the micro-controller, which is used to calculate the pitch of the car.</description>
+    </item>
+    
+    <item>
+      <title>Magnetic Levitation with a Floating Steel Ball</title>
+      <link>http://yerbolaussat.github.io/project/magnetic-levitation/</link>
+      <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/magnetic-levitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitLet</title>
+      <link>http://yerbolaussat.github.io/project/gitlet/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/gitlet/</guid>
+      <description>See Code
+A Version Control System, inspired by Git. Designed in Java.
+This Version Control System mimics some of the basic features of the popular version control system Git, only smaller ofcourse. For the uninitiated, a version control system helps you save snapshots of your files at different points in time. That way, if you mess them up later, you can return to earlier versions.
+Gitlet supports operations such as staging/unstaging files, merging, removing, rebasing and interactively rebasing branches.</description>
+    </item>
+    
+    <item>
+      <title>Static corrosion of steel alloys in lead-bismuth-eutectic</title>
+      <link>http://yerbolaussat.github.io/project/static-corrosion-testing/</link>
+      <pubDate>Mon, 20 May 2013 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/static-corrosion-testing/</guid>
+      <description>See Poster
+See Publication 1
+See Publication 2
+Liquid metals have shown promise as a high temperature coolant for nuclear and solar applications. Having a reactor operate at higher temperature would allow more efficient thermodynamic cycles to be used, increasing the efficiency of the plant. One of the candidate liquid metals is Lead-Bismuth Eutectic (LBE). Corrosion of steel, a primary structural material, in LBE is one of the main limiting factors for deploying this technology widely.</description>
+    </item>
+    
+  </channel>
+</rss>

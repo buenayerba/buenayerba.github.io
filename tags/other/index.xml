@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Yerbol Aussat</title>
+    <link>http://yerbolaussat.github.io/tags/other/</link>
+    <description>Recent content in Other on Yerbol Aussat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 11 Jun 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://yerbolaussat.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sudoku puzzle as a constraint satisfaction problem.</title>
+      <link>http://yerbolaussat.github.io/project/sudoku-solver/</link>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/sudoku-solver/</guid>
+      <description>See Code
+See Analysis
+Java implementation of a bot that solves Sudoku puzzles.
+The algorithm implements the backtracking search algorithm with forward checking and three heuristics:
+ Minimum remaining values heuristic Minimum degree heuristic Least constraining value heuristic  Sudoku Puzzle is modeled as a Constraint Satisfaction Problem (CSP) as follows:
+Variables: 81 variables, one for each square / cell
+Domains: Empty squares have domain {1, 2, 3, 4, 5, 6, 7, 8, 9} and the prefilled squares have a domain consisting of a single value.</description>
+    </item>
+    
+    <item>
+      <title>Course status tracker</title>
+      <link>http://yerbolaussat.github.io/project/track-courses/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/track-courses/</guid>
+      <description>See Code
+This program uses Selenium Webdriver to automate checking course status on UWaterloo&amp;rsquo;s Quest portal. Whenever the course of interest becomes available, the program notifies a user.
+Currently headless PhantomJS driver and browser-based ChromeDrive are supported.
+TO-DO: Implement course status inquiries from Quest portal with Selenium Webdriver Implement notifications when a course opens
+ Send a text message / email to the user once the course is open Automatically register a user for a course</description>
+    </item>
+    
+    <item>
+      <title>Calendar App (OOD)</title>
+      <link>http://yerbolaussat.github.io/project/ood_calendar/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/ood_calendar/</guid>
+      <description>See Code</description>
+    </item>
+    
+    <item>
+      <title>Automated Storage and Retrieval System</title>
+      <link>http://yerbolaussat.github.io/project/go-getters/</link>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/go-getters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balance Car</title>
+      <link>http://yerbolaussat.github.io/project/hot-wheelz/</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/hot-wheelz/</guid>
+      <description>The Balance Car is a free-rolling car with a tilting balance platform mounted on top. The balance platform, controlled by a servo-motor and microcontroller, responds to both the tilt (pitch) and the longitudinal acceleration of the car so that a small object will be cradled on the platform as the car rolls down the roll-car track. A 9 degree-of-freedom inertial measurement unit (IMU) mounted on the car sends angular velocity, acceleration, and heading data to the micro-controller, which is used to calculate the pitch of the car.</description>
+    </item>
+    
+    <item>
+      <title>Magnetic Levitation with a Floating Steel Ball</title>
+      <link>http://yerbolaussat.github.io/project/magnetic-levitation/</link>
+      <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/magnetic-levitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitLet</title>
+      <link>http://yerbolaussat.github.io/project/gitlet/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/gitlet/</guid>
+      <description>See Code
+A Version Control System, inspired by Git. Designed in Java.
+This Version Control System mimics some of the basic features of the popular version control system Git, only smaller ofcourse. For the uninitiated, a version control system helps you save snapshots of your files at different points in time. That way, if you mess them up later, you can return to earlier versions.
+Gitlet supports operations such as staging/unstaging files, merging, removing, rebasing and interactively rebasing branches.</description>
+    </item>
+    
+  </channel>
+</rss>

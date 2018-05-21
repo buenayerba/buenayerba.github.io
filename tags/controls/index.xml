@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Controls on Yerbol Aussat</title>
+    <link>http://yerbolaussat.github.io/tags/controls/</link>
+    <description>Recent content in Controls on Yerbol Aussat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 11 Nov 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://yerbolaussat.github.io/tags/controls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Balance Car</title>
+      <link>http://yerbolaussat.github.io/project/hot-wheelz/</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/hot-wheelz/</guid>
+      <description>The Balance Car is a free-rolling car with a tilting balance platform mounted on top. The balance platform, controlled by a servo-motor and microcontroller, responds to both the tilt (pitch) and the longitudinal acceleration of the car so that a small object will be cradled on the platform as the car rolls down the roll-car track. A 9 degree-of-freedom inertial measurement unit (IMU) mounted on the car sends angular velocity, acceleration, and heading data to the micro-controller, which is used to calculate the pitch of the car.</description>
+    </item>
+    
+    <item>
+      <title>Magnetic Levitation with a Floating Steel Ball</title>
+      <link>http://yerbolaussat.github.io/project/magnetic-levitation/</link>
+      <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/project/magnetic-levitation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
