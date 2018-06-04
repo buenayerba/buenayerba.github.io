@@ -18,7 +18,7 @@
       <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/smart-lighting/</guid>
-      <description>In Progress &amp;hellip; Lighting load accounts for approximately one third of the energy consumption in modern buildings. Thus, it is important to reduce this load, ideally without compromising comfort of building occupants.
+      <description>In Progress &amp;hellip;    Lighting load accounts for approximately one third of the energy consumption in modern buildings. Thus, it is important to reduce this load, ideally without compromising comfort of building occupants.
 We design a power-optimal lighting control system that takes into account both occupancy and daylight changes, based on input from multiple sensors located at each work surface. We came up with a linear-programming-based control algorithm that minimizes the power consumption, while dynamically accommodating heterogeneous illuminance requirements and changes in occupancy.</description>
     </item>
     
