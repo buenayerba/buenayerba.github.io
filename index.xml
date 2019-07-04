@@ -6,9 +6,18 @@
     <description>Recent content in Yerbol Aussat on Yerbol Aussat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oxidative passivation of Fe–Cr–Al steels in lead-bismuth eutectic under oxygen-controlled static conditions at 700° and 800 °C</title>
+      <link>http://yerbolaussat.github.io/publication/popovic_et_al/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/publication/popovic_et_al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pinterest</title>
@@ -353,21 +362,6 @@ All results are summarized in a write-up.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/kernel-logistic-regression/blob/master/(kernel)_logistic_regression.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
 &lt;a href=&#34;https://github.com/yerbolaussat/kernel-logistic-regression&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Prediction of Boston Housing Prices with Linear Regression</title>
-      <link>http://yerbolaussat.github.io/project/boston-housing/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>http://yerbolaussat.github.io/project/boston-housing/</guid>
-      <description>&lt;p&gt;Python implementation of Ridge and Lasso regression algorithms.&lt;br /&gt;
-Performance of the two algorithms on predicting housing prices in Boston is analyzed and compared. The effect of regularization is studied. All results are summarized in a write-up.&lt;br /&gt;
-&lt;a href=&#34;http://lib.stat.cmu.edu/datasets/boston&#34; target=&#34;_blank&#34;&gt;The Boston house-price data set&lt;/a&gt; is used in this experiment.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/linear-regression/blob/master/ridge-and-lasso-regression.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
-&lt;a href=&#34;https://github.com/yerbolaussat/perceptron-vs-winnow&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

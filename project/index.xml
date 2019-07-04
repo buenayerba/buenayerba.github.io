@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Yerbol Aussat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 20 May 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://yerbolaussat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
@@ -250,7 +250,7 @@ Gitlet supports operations such as staging/unstaging files, merging, removing, r
     </item>
     
     <item>
-      <title>Static corrosion of steel alloys in lead-bismuth-eutectic</title>
+      <title>Static corrosion of steel alloys in liquid metals</title>
       <link>http://yerbolaussat.github.io/project/static-corrosion-testing/</link>
       <pubDate>Mon, 20 May 2013 00:00:00 -0400</pubDate>
       
@@ -258,6 +258,7 @@ Gitlet supports operations such as staging/unstaging files, merging, removing, r
       <description>See Poster
 See Publication 1
 See Publication 2
+See Publication 3
 Liquid metals have shown promise as a high temperature coolant for nuclear and solar applications. Having a reactor operate at higher temperature would allow more efficient thermodynamic cycles to be used, increasing the efficiency of the plant. One of the candidate liquid metals is Lead-Bismuth Eutectic (LBE). Corrosion of steel, a primary structural material, in LBE is one of the main limiting factors for deploying this technology widely.</description>
     </item>
     
