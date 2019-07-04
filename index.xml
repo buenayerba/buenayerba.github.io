@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pinterest</title>
+      <link>http://yerbolaussat.github.io/industry/pinterest/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/industry/pinterest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lime</title>
+      <link>http://yerbolaussat.github.io/industry/lime/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/industry/lime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Smart Lighting (IoT)</title>
       <link>http://yerbolaussat.github.io/project/smart-lighting/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
@@ -350,38 +368,6 @@ Performance of the two algorithms on predicting housing prices in Boston is anal
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/linear-regression/blob/master/ridge-and-lasso-regression.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
 &lt;a href=&#34;https://github.com/yerbolaussat/perceptron-vs-winnow&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spam detection with Perceptron and Winnow Learning algorithms</title>
-      <link>http://yerbolaussat.github.io/project/spam-detection/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>http://yerbolaussat.github.io/project/spam-detection/</guid>
-      <description>&lt;p&gt;Python implementation of Perceptron and Winnow learning algorithms.&lt;br /&gt;
-Performance of the two algorithms on the problem of spam detection is analyzed and compared. All results are summarized in a write-up.&lt;br /&gt;
-&lt;a href=&#34;https://archive.ics.uci.edu/ml/datasets/spambase&#34; target=&#34;_blank&#34;&gt;Spambase data set&lt;/a&gt; is used in this experiment.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/perceptron-vs-winnow/blob/master/perceptron_and_winnow.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt;.&lt;br /&gt;
-&lt;a href=&#34;https://github.com/yerbolaussat/perceptron-vs-winnow&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Text classification with Decision Trees and Naive Bayes</title>
-      <link>http://yerbolaussat.github.io/project/text-classification/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>http://yerbolaussat.github.io/project/text-classification/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/text_classification&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://github.com/yerbolaussat/text_classification/blob/master/Text%20Classification%20Analysis.pdf&#34; target=&#34;_blank&#34;&gt;See write-up&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Text categorization is an important task in natural language processing and information retrieval. For instance, news articles, emails or blogs are often classified by topics. I implemented a decision tree algorithm and a naive Bayes classification algorithm in Python to learn classifiers that can assign a newsgroup topic to any article.&lt;/p&gt;
-
-&lt;p&gt;A training set and test set of articles with their correct newsgroup label were used. The articles have been pre-processed and converted to the bag of words model. More precisely, each article is converted to a vector of binary values such that each entry indicates whether the document contains a specific word or not.&lt;/p&gt;
-
-&lt;p&gt;Correctness of implementation was verified by comparing the results to those obtained by the sklearn.tree.DecisionTreeClassifier and sklearn.naive bayes.BernoulliNB classifiers available in the Python &lt;a href=&#34;http://scikit-learn.org/stable/&#34; target=&#34;_blank&#34;&gt;scikit-learn library&lt;/a&gt; for machine learning.&lt;/p&gt;
 </description>
     </item>
     
