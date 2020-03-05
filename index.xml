@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Snap Inc.</title>
+      <link>http://yerbolaussat.github.io/industry/snap/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/industry/snap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oxidative passivation of Fe–Cr–Al steels in lead-bismuth eutectic under oxygen-controlled static conditions at 700° and 800 °C</title>
       <link>http://yerbolaussat.github.io/publication/popovic_et_al/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 -0400</pubDate>
@@ -341,27 +350,6 @@ Derivation and results are summarized in a write-up.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/gmm/blob/master/GMM.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
 &lt;a href=&#34;https://github.com/yerbolaussat/gmm&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Image Classification with (Kernel) Logistic Regression</title>
-      <link>http://yerbolaussat.github.io/project/cifar-log-regression/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>http://yerbolaussat.github.io/project/cifar-log-regression/</guid>
-      <description>&lt;p&gt;First, Newton algorithm for logistic regression is derived and implemented. Then, the algorithm is applied to image classification problem on &lt;a href=&#34;http://www.cs.toronto.edu/~kriz/cifar.html&#34; target=&#34;_blank&#34;&gt;CIFAR-10&lt;/a&gt; data set. Two strategies for using binary classifier for multi-class classification are used:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;One-vs-All strategy&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;One-vs-One strategy Results are summarized in a write-up.&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Next, kernelized binary logistic regression is derived and implemented. It is tested on &amp;ldquo;cat&amp;rdquo; and &amp;ldquo;dog&amp;rdquo; classes of &lt;a href=&#34;http://www.cs.toronto.edu/~kriz/cifar.html&#34; target=&#34;_blank&#34;&gt;CIFAR-10&lt;/a&gt; data set.&lt;br /&gt;
-All results are summarized in a write-up.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/kernel-logistic-regression/blob/master/(kernel)_logistic_regression.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
-&lt;a href=&#34;https://github.com/yerbolaussat/kernel-logistic-regression&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
