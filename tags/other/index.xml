@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 11 Jun 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://yerbolaussat.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Sudoku puzzle as a constraint satisfaction problem</title>
       <link>http://yerbolaussat.github.io/project/sudoku-solver/</link>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/sudoku-solver/</guid>
       <description>See Code
@@ -30,7 +30,7 @@ Domains: Empty squares have domain {1, 2, 3, 4, 5, 6, 7, 8, 9} and the prefilled
     <item>
       <title>Course status tracker</title>
       <link>http://yerbolaussat.github.io/project/track-courses/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/track-courses/</guid>
       <description>See Code
@@ -43,7 +43,7 @@ TO-DO: Implement course status inquiries from Quest portal with Selenium Webdriv
     <item>
       <title>Calendar App (OOD)</title>
       <link>http://yerbolaussat.github.io/project/ood_calendar/</link>
-      <pubDate>Wed, 10 Aug 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ood_calendar/</guid>
       <description>See Code</description>
@@ -52,7 +52,7 @@ TO-DO: Implement course status inquiries from Quest portal with Selenium Webdriv
     <item>
       <title>Automated Storage and Retrieval System</title>
       <link>http://yerbolaussat.github.io/project/go-getters/</link>
-      <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/go-getters/</guid>
       <description></description>
@@ -61,7 +61,7 @@ TO-DO: Implement course status inquiries from Quest portal with Selenium Webdriv
     <item>
       <title>Balance Car</title>
       <link>http://yerbolaussat.github.io/project/hot-wheelz/</link>
-      <pubDate>Wed, 11 Nov 2015 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/hot-wheelz/</guid>
       <description>The Balance Car is a free-rolling car with a tilting balance platform mounted on top. The balance platform, controlled by a servo-motor and microcontroller, responds to both the tilt (pitch) and the longitudinal acceleration of the car so that a small object will be cradled on the platform as the car rolls down the roll-car track. A 9 degree-of-freedom inertial measurement unit (IMU) mounted on the car sends angular velocity, acceleration, and heading data to the micro-controller, which is used to calculate the pitch of the car.</description>
@@ -70,7 +70,7 @@ TO-DO: Implement course status inquiries from Quest portal with Selenium Webdriv
     <item>
       <title>Magnetic Levitation with a Floating Steel Ball</title>
       <link>http://yerbolaussat.github.io/project/magnetic-levitation/</link>
-      <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 11 Apr 2015 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/magnetic-levitation/</guid>
       <description></description>
@@ -79,7 +79,7 @@ TO-DO: Implement course status inquiries from Quest portal with Selenium Webdriv
     <item>
       <title>GitLet</title>
       <link>http://yerbolaussat.github.io/project/gitlet/</link>
-      <pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/gitlet/</guid>
       <description>See Code

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 20 May 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://yerbolaussat.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Smart Lighting (IoT)</title>
       <link>http://yerbolaussat.github.io/project/smart-lighting/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/smart-lighting/</guid>
       <description>In Progress &amp;hellip;    Lighting load accounts for approximately one third of the energy consumption in modern buildings. Thus, it is important to reduce this load, ideally without compromising comfort of building occupants.
@@ -25,7 +25,7 @@ We design a power-optimal lighting control system that takes into account both o
     <item>
       <title>Book-AR: Augmented Reality for Books on a Bookshelf</title>
       <link>http://yerbolaussat.github.io/project/ar-bookspine/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ar-bookspine/</guid>
       <description>See Report
@@ -36,7 +36,7 @@ Retrieving information about books on a bookshelf by simply pointing a camera at
     <item>
       <title>Dog Breed Identification</title>
       <link>http://yerbolaussat.github.io/project/dog-classification/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
       <description>See Report
@@ -48,7 +48,7 @@ To train and evaluate the model the &amp;ldquo;Columbia Dogs with Parts” datas
     <item>
       <title>AR Video Player</title>
       <link>http://yerbolaussat.github.io/project/ar-video-player/</link>
-      <pubDate>Sat, 07 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ar-video-player/</guid>
       <description>Interactive AR platform that can play videos on any flat surface.
@@ -59,7 +59,7 @@ See Code
     <item>
       <title>Fingertip and Hand Tracking</title>
       <link>http://yerbolaussat.github.io/project/k-curv/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/k-curv/</guid>
       <description>My implementation of k-curvature algorithm for hand and fingertip tracking.
@@ -71,7 +71,7 @@ See Code
     <item>
       <title>Sensor Data Classification for Occupancy Detection</title>
       <link>http://yerbolaussat.github.io/project/occupancy-detection/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/occupancy-detection/</guid>
       <description>Accurate determination of office occupancy is an important problem, the solution to which could enable many compelling applications. Heating, ventilation and air conditioning (HVAC) as well as lighting are two major energy consumers in buildings. Previous studies showed that implementing demand driven lighting and HVAC operations could substantially reduce building energy consumption. However, such solutions rely on accurate occupancy information.
@@ -81,7 +81,7 @@ This study evaluates the accuracy of the prediction of occupancy in an office ro
     <item>
       <title>Sudoku puzzle as a constraint satisfaction problem</title>
       <link>http://yerbolaussat.github.io/project/sudoku-solver/</link>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/sudoku-solver/</guid>
       <description>See Code
@@ -96,7 +96,7 @@ Domains: Empty squares have domain {1, 2, 3, 4, 5, 6, 7, 8, 9} and the prefilled
     <item>
       <title>Mimic-Emoji Game</title>
       <link>http://yerbolaussat.github.io/project/mimic-emoji/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/mimic-emoji/</guid>
       <description>Mimic-Emoji is a game in which a player&amp;rsquo;s goal is to mimic different emoji faces that appear onscreen. If a player successfully mimics an emoji face, he earns a score, and the guessed emoji face is augmented on the player&amp;rsquo;s face.
@@ -106,7 +106,7 @@ This game uses Microsoft Emotion API that takes a facial expression in an image 
     <item>
       <title>Course status tracker</title>
       <link>http://yerbolaussat.github.io/project/track-courses/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/track-courses/</guid>
       <description>See Code
@@ -119,7 +119,7 @@ TO-DO: Implement course status inquiries from Quest portal with Selenium Webdriv
     <item>
       <title>Handwritten digit recognition with k-NN</title>
       <link>http://yerbolaussat.github.io/project/mnist-with-knn/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/mnist-with-knn/</guid>
       <description>Python implementation of k nearest neighbors classification algorithm.
@@ -132,7 +132,7 @@ See Code</description>
     <item>
       <title>Handwritten digit recognition with EM algorithm for GMM</title>
       <link>http://yerbolaussat.github.io/project/mnist-gmm/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/mnist-gmm/</guid>
       <description>Expectation Maximization (EM) algorithm for Gaussian Mixture Model is derived and implemented. Then, the algorithm is applied to handwritten digit classification problem with MNIST data set.
@@ -144,7 +144,7 @@ See Code</description>
     <item>
       <title>Image Classification with (Kernel) Logistic Regression</title>
       <link>http://yerbolaussat.github.io/project/cifar-log-regression/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/cifar-log-regression/</guid>
       <description>First, Newton algorithm for logistic regression is derived and implemented. Then, the algorithm is applied to image classification problem on CIFAR-10 data set. Two strategies for using binary classifier for multi-class classification are used:
@@ -157,7 +157,7 @@ All results are summarized in a write-up.</description>
     <item>
       <title>Prediction of Boston Housing Prices with Linear Regression</title>
       <link>http://yerbolaussat.github.io/project/boston-housing/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/boston-housing/</guid>
       <description>Python implementation of Ridge and Lasso regression algorithms.
@@ -170,7 +170,7 @@ See Code</description>
     <item>
       <title>Spam detection with Perceptron and Winnow Learning algorithms</title>
       <link>http://yerbolaussat.github.io/project/spam-detection/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/spam-detection/</guid>
       <description>Python implementation of Perceptron and Winnow learning algorithms.
@@ -183,7 +183,7 @@ See Code</description>
     <item>
       <title>Text classification with Decision Trees and Naive Bayes</title>
       <link>http://yerbolaussat.github.io/project/text-classification/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/text-classification/</guid>
       <description>See Code
@@ -195,7 +195,7 @@ A training set and test set of articles with their correct newsgroup label were 
     <item>
       <title>Variable Elimination Algorithm</title>
       <link>http://yerbolaussat.github.io/project/var-ilimination/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/var-ilimination/</guid>
       <description></description>
@@ -204,7 +204,7 @@ A training set and test set of articles with their correct newsgroup label were 
     <item>
       <title>Calendar App (OOD)</title>
       <link>http://yerbolaussat.github.io/project/ood_calendar/</link>
-      <pubDate>Wed, 10 Aug 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ood_calendar/</guid>
       <description>See Code</description>
@@ -213,7 +213,7 @@ A training set and test set of articles with their correct newsgroup label were 
     <item>
       <title>Automated Storage and Retrieval System</title>
       <link>http://yerbolaussat.github.io/project/go-getters/</link>
-      <pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/go-getters/</guid>
       <description></description>
@@ -222,7 +222,7 @@ A training set and test set of articles with their correct newsgroup label were 
     <item>
       <title>Balance Car</title>
       <link>http://yerbolaussat.github.io/project/hot-wheelz/</link>
-      <pubDate>Wed, 11 Nov 2015 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/hot-wheelz/</guid>
       <description>The Balance Car is a free-rolling car with a tilting balance platform mounted on top. The balance platform, controlled by a servo-motor and microcontroller, responds to both the tilt (pitch) and the longitudinal acceleration of the car so that a small object will be cradled on the platform as the car rolls down the roll-car track. A 9 degree-of-freedom inertial measurement unit (IMU) mounted on the car sends angular velocity, acceleration, and heading data to the micro-controller, which is used to calculate the pitch of the car.</description>
@@ -231,7 +231,7 @@ A training set and test set of articles with their correct newsgroup label were 
     <item>
       <title>Magnetic Levitation with a Floating Steel Ball</title>
       <link>http://yerbolaussat.github.io/project/magnetic-levitation/</link>
-      <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 11 Apr 2015 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/magnetic-levitation/</guid>
       <description></description>
@@ -240,7 +240,7 @@ A training set and test set of articles with their correct newsgroup label were 
     <item>
       <title>GitLet</title>
       <link>http://yerbolaussat.github.io/project/gitlet/</link>
-      <pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/gitlet/</guid>
       <description>See Code
@@ -252,7 +252,7 @@ Gitlet supports operations such as staging/unstaging files, merging, removing, r
     <item>
       <title>Static corrosion of steel alloys in liquid metals</title>
       <link>http://yerbolaussat.github.io/project/static-corrosion-testing/</link>
-      <pubDate>Mon, 20 May 2013 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 May 2013 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/static-corrosion-testing/</guid>
       <description>See Poster

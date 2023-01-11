@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 20 May 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://yerbolaussat.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Smart Lighting (IoT)</title>
       <link>http://yerbolaussat.github.io/project/smart-lighting/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/smart-lighting/</guid>
       <description>In Progress &amp;hellip;    Lighting load accounts for approximately one third of the energy consumption in modern buildings. Thus, it is important to reduce this load, ideally without compromising comfort of building occupants.
@@ -25,7 +25,7 @@ We design a power-optimal lighting control system that takes into account both o
     <item>
       <title>Dog Breed Identification</title>
       <link>http://yerbolaussat.github.io/project/dog-classification/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
       <description>See Report
@@ -37,7 +37,7 @@ To train and evaluate the model the &amp;ldquo;Columbia Dogs with Parts” datas
     <item>
       <title>Sensor Data Classification for Occupancy Detection</title>
       <link>http://yerbolaussat.github.io/project/occupancy-detection/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/occupancy-detection/</guid>
       <description>Accurate determination of office occupancy is an important problem, the solution to which could enable many compelling applications. Heating, ventilation and air conditioning (HVAC) as well as lighting are two major energy consumers in buildings. Previous studies showed that implementing demand driven lighting and HVAC operations could substantially reduce building energy consumption. However, such solutions rely on accurate occupancy information.
@@ -47,7 +47,7 @@ This study evaluates the accuracy of the prediction of occupancy in an office ro
     <item>
       <title>Static corrosion of steel alloys in liquid metals</title>
       <link>http://yerbolaussat.github.io/project/static-corrosion-testing/</link>
-      <pubDate>Mon, 20 May 2013 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 May 2013 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/static-corrosion-testing/</guid>
       <description>See Poster

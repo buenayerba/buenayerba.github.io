@@ -5,8 +5,26 @@
     
     <url>
     
+      <loc>http://yerbolaussat.github.io/publication/aussat_et_al/</loc>
+      <lastmod>2022-01-31T00:00:00+06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://yerbolaussat.github.io/industry/snap/</loc>
-      <lastmod>2020-02-18T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-18T00:00:00+06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://yerbolaussat.github.io/publication/thesis/</loc>
+      <lastmod>2019-09-03T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -15,7 +33,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/publication/popovic_et_al/</loc>
-      <lastmod>2019-06-04T00:00:00-04:00</lastmod>
+      <lastmod>2019-06-04T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -24,7 +42,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/industry/pinterest/</loc>
-      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
+      <lastmod>2018-06-20T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -33,7 +51,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/industry/lime/</loc>
-      <lastmod>2018-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2018-05-20T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -42,7 +60,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/smart-lighting/</loc>
-      <lastmod>2018-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2018-05-20T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -51,7 +69,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/ar-bookspine/</loc>
-      <lastmod>2018-04-11T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-11T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -60,7 +78,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/dog-classification/</loc>
-      <lastmod>2018-04-10T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -69,7 +87,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/ar-video-player/</loc>
-      <lastmod>2018-04-07T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-07T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -78,7 +96,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/k-curv/</loc>
-      <lastmod>2018-03-20T00:00:00-04:00</lastmod>
+      <lastmod>2018-03-20T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -87,7 +105,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/occupancy-detection/</loc>
-      <lastmod>2017-09-20T00:00:00-04:00</lastmod>
+      <lastmod>2017-09-20T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -96,7 +114,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/sudoku-solver/</loc>
-      <lastmod>2017-06-11T00:00:00-04:00</lastmod>
+      <lastmod>2017-06-11T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -105,7 +123,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/mimic-emoji/</loc>
-      <lastmod>2017-06-10T00:00:00-04:00</lastmod>
+      <lastmod>2017-06-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -114,7 +132,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/track-courses/</loc>
-      <lastmod>2017-06-07T00:00:00-04:00</lastmod>
+      <lastmod>2017-06-07T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -123,7 +141,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/mnist-with-knn/</loc>
-      <lastmod>2017-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2017-05-20T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -132,7 +150,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/mnist-gmm/</loc>
-      <lastmod>2017-05-10T00:00:00-04:00</lastmod>
+      <lastmod>2017-05-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -141,7 +159,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/cifar-log-regression/</loc>
-      <lastmod>2017-05-10T00:00:00-04:00</lastmod>
+      <lastmod>2017-05-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -150,7 +168,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/boston-housing/</loc>
-      <lastmod>2017-05-10T00:00:00-04:00</lastmod>
+      <lastmod>2017-05-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -159,7 +177,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/spam-detection/</loc>
-      <lastmod>2017-05-10T00:00:00-04:00</lastmod>
+      <lastmod>2017-05-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -168,7 +186,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/text-classification/</loc>
-      <lastmod>2017-05-10T00:00:00-04:00</lastmod>
+      <lastmod>2017-05-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -177,7 +195,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/var-ilimination/</loc>
-      <lastmod>2017-05-10T00:00:00-04:00</lastmod>
+      <lastmod>2017-05-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -186,7 +204,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -195,7 +213,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -204,7 +222,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -213,7 +231,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/ood_calendar/</loc>
-      <lastmod>2016-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2016-08-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -222,7 +240,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/industry/accel/</loc>
-      <lastmod>2016-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2016-05-20T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -231,7 +249,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/go-getters/</loc>
-      <lastmod>2015-11-20T00:00:00-05:00</lastmod>
+      <lastmod>2015-11-20T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -240,7 +258,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/hot-wheelz/</loc>
-      <lastmod>2015-11-11T00:00:00-05:00</lastmod>
+      <lastmod>2015-11-11T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -249,7 +267,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/publication/oxide-scale-formation/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2015-09-01T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -258,7 +276,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/magnetic-levitation/</loc>
-      <lastmod>2015-04-11T00:00:00-04:00</lastmod>
+      <lastmod>2015-04-11T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -267,7 +285,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/gitlet/</loc>
-      <lastmod>2014-09-10T00:00:00-04:00</lastmod>
+      <lastmod>2014-09-10T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -276,7 +294,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/publication/lbe-for-solar/</loc>
-      <lastmod>2014-07-01T00:00:00-04:00</lastmod>
+      <lastmod>2014-07-01T00:00:00+06:00</lastmod>
     </url>
     
   
@@ -285,7 +303,17 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/static-corrosion-testing/</loc>
-      <lastmod>2013-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2013-05-20T00:00:00+06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://yerbolaussat.github.io/publication_types/0/</loc>
+      <lastmod>2019-09-03T00:00:00+06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -294,7 +322,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/publication_types/2/</loc>
-      <lastmod>2019-06-04T00:00:00-04:00</lastmod>
+      <lastmod>2022-01-31T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -304,7 +332,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/augmented_reality/</loc>
-      <lastmod>2018-04-11T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-11T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -323,7 +351,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/computer_vision/</loc>
-      <lastmod>2018-04-11T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-11T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -333,7 +361,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/controls/</loc>
-      <lastmod>2015-11-11T00:00:00-05:00</lastmod>
+      <lastmod>2015-11-11T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -343,7 +371,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/industry/</loc>
-      <lastmod>2020-02-18T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-18T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -353,7 +381,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/industry/</loc>
-      <lastmod>2020-02-18T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-18T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -363,7 +391,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/machine_learning/</loc>
-      <lastmod>2018-04-10T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-10T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -373,7 +401,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/object-oriented-design/</loc>
-      <lastmod>2016-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2016-08-10T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -383,7 +411,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/other/</loc>
-      <lastmod>2017-06-11T00:00:00-04:00</lastmod>
+      <lastmod>2017-06-11T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -393,7 +421,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/project/</loc>
-      <lastmod>2018-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2018-05-20T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -403,7 +431,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/publication_types/</loc>
-      <lastmod>2019-06-04T00:00:00-04:00</lastmod>
+      <lastmod>2019-09-03T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -413,7 +441,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/research/</loc>
-      <lastmod>2018-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2018-05-20T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -423,7 +451,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/tags/</loc>
-      <lastmod>2018-04-11T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-11T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -433,7 +461,7 @@
     <url>
     
       <loc>http://yerbolaussat.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-20T00:00:00+06:00</lastmod>
       <priority>0</priority>
     </url>
     

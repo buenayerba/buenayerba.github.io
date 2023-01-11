@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://yerbolaussat.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,16 @@
     <item>
       <title></title>
       <link>http://yerbolaussat.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/about/</guid>
-      <description>I recently completed my graduate studies at the David R. Cheriton School of Computer Science, University of Waterloo, where I was a member of the ISS4E research group, directed by Prof. S. Keshav. Before coming to Waterloo, I did my Bachelor of Science at UC Berkeley, where I was studying mechanical engineering, materials science and nuclear physics.</description>
+      <description>I recently completed my graduate studies at the David R. Cheriton School of Computer Science, University of Waterloo, where I was a member of the ISS4E research group, supervised by Prof. S. Keshav. I also hold a Bachelor of Science degree in mechanical engineering, materials science and nuclear physics from UC Berkeley.</description>
     </item>
     
     <item>
       <title>Industry experience</title>
       <link>http://yerbolaussat.github.io/home/industry/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/industry/</guid>
       <description></description>
@@ -33,25 +33,25 @@
     <item>
       <title>Selected Publications</title>
       <link>http://yerbolaussat.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://yerbolaussat.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Publications</title>
+      <link>http://yerbolaussat.github.io/home/publications/</link>
+      <pubDate>Sun, 20 Apr 2014 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/projects/</guid>
+      <guid>http://yerbolaussat.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
       <link>http://yerbolaussat.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/teaching/</guid>
       <description>I was a teaching assistant for the following courses at University of Waterloo:
@@ -59,27 +59,27 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>http://yerbolaussat.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>http://yerbolaussat.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>http://yerbolaussat.github.io/home/publications/</link>
-      <pubDate>Sun, 20 Apr 2014 00:00:00 -0400</pubDate>
-      
-      <guid>http://yerbolaussat.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent Posts</title>
       <link>http://yerbolaussat.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/posts/</guid>
       <description></description>
@@ -88,7 +88,7 @@
     <item>
       <title>Research</title>
       <link>http://yerbolaussat.github.io/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/research/</guid>
       <description></description>
@@ -97,7 +97,7 @@
     <item>
       <title>Tags</title>
       <link>http://yerbolaussat.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/tags/</guid>
       <description></description>
@@ -106,7 +106,7 @@
     <item>
       <title>Contact</title>
       <link>http://yerbolaussat.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/home/contact/</guid>
       <description></description>

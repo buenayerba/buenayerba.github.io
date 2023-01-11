@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://yerbolaussat.github.io/tags/computer_vision/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Book-AR: Augmented Reality for Books on a Bookshelf</title>
       <link>http://yerbolaussat.github.io/project/ar-bookspine/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ar-bookspine/</guid>
       <description>See Report
@@ -26,7 +26,7 @@ Retrieving information about books on a bookshelf by simply pointing a camera at
     <item>
       <title>Dog Breed Identification</title>
       <link>http://yerbolaussat.github.io/project/dog-classification/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
       <description>See Report
@@ -38,7 +38,7 @@ To train and evaluate the model the &amp;ldquo;Columbia Dogs with Parts” datas
     <item>
       <title>AR Video Player</title>
       <link>http://yerbolaussat.github.io/project/ar-video-player/</link>
-      <pubDate>Sat, 07 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ar-video-player/</guid>
       <description>Interactive AR platform that can play videos on any flat surface.
@@ -49,7 +49,7 @@ See Code
     <item>
       <title>Fingertip and Hand Tracking</title>
       <link>http://yerbolaussat.github.io/project/k-curv/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/k-curv/</guid>
       <description>My implementation of k-curvature algorithm for hand and fingertip tracking.
@@ -61,7 +61,7 @@ See Code
     <item>
       <title>Mimic-Emoji Game</title>
       <link>http://yerbolaussat.github.io/project/mimic-emoji/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/mimic-emoji/</guid>
       <description>Mimic-Emoji is a game in which a player&amp;rsquo;s goal is to mimic different emoji faces that appear onscreen. If a player successfully mimics an emoji face, he earns a score, and the guessed emoji face is augmented on the player&amp;rsquo;s face.

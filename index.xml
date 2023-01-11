@@ -7,22 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A power-efficient self-calibrating smart lighting system</title>
+      <link>http://yerbolaussat.github.io/publication/aussat_et_al/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0600</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/publication/aussat_et_al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Snap Inc.</title>
       <link>http://yerbolaussat.github.io/industry/snap/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/industry/snap/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>A Power-Efficient Smart Lighting System: Modeling, Implementation and Evaluation</title>
+      <link>http://yerbolaussat.github.io/publication/thesis/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0600</pubDate>
+      
+      <guid>http://yerbolaussat.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oxidative passivation of Feâ€“Crâ€“Al steels in lead-bismuth eutectic under oxygen-controlled static conditions at 700Â° and 800â€¯Â°C</title>
       <link>http://yerbolaussat.github.io/publication/popovic_et_al/</link>
-      <pubDate>Tue, 04 Jun 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/publication/popovic_et_al/</guid>
       <description></description>
@@ -31,7 +49,7 @@
     <item>
       <title>Pinterest</title>
       <link>http://yerbolaussat.github.io/industry/pinterest/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/industry/pinterest/</guid>
       <description></description>
@@ -40,7 +58,7 @@
     <item>
       <title>Lime</title>
       <link>http://yerbolaussat.github.io/industry/lime/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/industry/lime/</guid>
       <description></description>
@@ -49,7 +67,7 @@
     <item>
       <title>Smart Lighting (IoT)</title>
       <link>http://yerbolaussat.github.io/project/smart-lighting/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/smart-lighting/</guid>
       <description>
@@ -122,7 +140,7 @@
     <item>
       <title>Book-AR: Augmented Reality for Books on a Bookshelf</title>
       <link>http://yerbolaussat.github.io/project/ar-bookspine/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ar-bookspine/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://yerbolaussat.github.io/files/book-ar-report.pdf&#34; target=&#34;_blank&#34;&gt;See Report&lt;/a&gt;&lt;br /&gt;
@@ -140,7 +158,7 @@ Retrieving information about books on a bookshelf by simply pointing a camera at
     <item>
       <title>Dog Breed Identification</title>
       <link>http://yerbolaussat.github.io/project/dog-classification/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://yerbolaussat.github.io/files/dog-breed-classification-report.pdf&#34; target=&#34;_blank&#34;&gt;See Report&lt;/a&gt;&lt;br /&gt;
@@ -156,7 +174,7 @@ In this project we attempted to build a classifier capable of identifying a dogâ
     <item>
       <title>AR Video Player</title>
       <link>http://yerbolaussat.github.io/project/ar-video-player/</link>
-      <pubDate>Sat, 07 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ar-video-player/</guid>
       <description>&lt;p&gt;Interactive AR platform that can play videos on any flat surface.&lt;/p&gt;
@@ -174,7 +192,7 @@ In this project we attempted to build a classifier capable of identifying a dogâ
     <item>
       <title>Fingertip and Hand Tracking</title>
       <link>http://yerbolaussat.github.io/project/k-curv/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/k-curv/</guid>
       <description>&lt;p&gt;My implementation of k-curvature algorithm for hand and fingertip tracking.&lt;/p&gt;
@@ -204,7 +222,7 @@ In this project we attempted to build a classifier capable of identifying a dogâ
     <item>
       <title>Sensor Data Classification for Occupancy Detection</title>
       <link>http://yerbolaussat.github.io/project/occupancy-detection/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/occupancy-detection/</guid>
       <description>&lt;p&gt;Accurate determination of office occupancy is an important problem, the solution to which could enable many compelling applications. Heating, ventilation and air conditioning (HVAC) as well as lighting are two major energy consumers in buildings. Previous studies showed that implementing demand driven lighting and HVAC operations could substantially reduce building energy consumption. However, such solutions rely on accurate occupancy information.&lt;/p&gt;
@@ -224,7 +242,7 @@ In this project we attempted to build a classifier capable of identifying a dogâ
     <item>
       <title>Sudoku puzzle as a constraint satisfaction problem</title>
       <link>http://yerbolaussat.github.io/project/sudoku-solver/</link>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/sudoku-solver/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/SudokuSolver&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;br /&gt;
@@ -272,7 +290,7 @@ In this project we attempted to build a classifier capable of identifying a dogâ
     <item>
       <title>Mimic-Emoji Game</title>
       <link>http://yerbolaussat.github.io/project/mimic-emoji/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/mimic-emoji/</guid>
       <description>&lt;p&gt;Mimic-Emoji is a game in which a player&amp;rsquo;s goal is to mimic different emoji faces that appear onscreen. If a player successfully mimics an emoji face, he earns a score, and the guessed emoji face is augmented on the player&amp;rsquo;s face.&lt;/p&gt;
@@ -303,7 +321,7 @@ In this project we attempted to build a classifier capable of identifying a dogâ
     <item>
       <title>Course status tracker</title>
       <link>http://yerbolaussat.github.io/project/track-courses/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/track-courses/</guid>
       <description>
@@ -321,35 +339,6 @@ Currently headless PhantomJS driver and browser-based ChromeDrive are supported.
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Send a text message / email to the user once the course is open&lt;/label&gt;&lt;/li&gt;
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Automatically register a user for a course&lt;br /&gt;&lt;/label&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Handwritten digit recognition with k-NN</title>
-      <link>http://yerbolaussat.github.io/project/mnist-with-knn/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>http://yerbolaussat.github.io/project/mnist-with-knn/</guid>
-      <description>&lt;p&gt;Python implementation of k nearest neighbors classification algorithm.&lt;br /&gt;
-The algorithm is applied to the problem of classifying handwritten digits from images. The performance of the algorithm with different number of neighbors is examined. The results are summarized in a write-up.&lt;br /&gt;
-&lt;a href=&#34;http://yann.lecun.com/exdb/mnist/&#34; target=&#34;_blank&#34;&gt;MNIST data set&lt;/a&gt; is used in this experiment.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/knn-algorithm-on-mnist/blob/master/knn-on-mnist.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
-&lt;a href=&#34;https://github.com/yerbolaussat/knn-algorithm-on-mnist&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Handwritten digit recognition with EM algorithm for GMM</title>
-      <link>http://yerbolaussat.github.io/project/mnist-gmm/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
-      
-      <guid>http://yerbolaussat.github.io/project/mnist-gmm/</guid>
-      <description>&lt;p&gt;Expectation Maximization (EM) algorithm for Gaussian Mixture Model is derived and implemented. Then, the algorithm is applied to handwritten digit classification problem with &lt;a href=&#34;http://yann.lecun.com/exdb/mnist/&#34; target=&#34;_blank&#34;&gt;MNIST&lt;/a&gt; data set.&lt;br /&gt;
-Derivation and results are summarized in a write-up.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/yerbolaussat/gmm/blob/master/GMM.pdf&#34; target=&#34;_blank&#34;&gt;See a write-up&lt;/a&gt; with experiment results.&lt;br /&gt;
-&lt;a href=&#34;https://github.com/yerbolaussat/gmm&#34; target=&#34;_blank&#34;&gt;See Code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

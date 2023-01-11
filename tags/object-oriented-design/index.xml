@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 10 Aug 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Aug 2016 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://yerbolaussat.github.io/tags/object-oriented-design/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Calendar App (OOD)</title>
       <link>http://yerbolaussat.github.io/project/ood_calendar/</link>
-      <pubDate>Wed, 10 Aug 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/ood_calendar/</guid>
       <description>See Code</description>
@@ -24,7 +24,7 @@
     <item>
       <title>GitLet</title>
       <link>http://yerbolaussat.github.io/project/gitlet/</link>
-      <pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/gitlet/</guid>
       <description>See Code

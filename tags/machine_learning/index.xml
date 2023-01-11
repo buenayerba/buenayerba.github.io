@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://yerbolaussat.github.io/tags/machine_learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Dog Breed Identification</title>
       <link>http://yerbolaussat.github.io/project/dog-classification/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
       <description>See Report
@@ -27,7 +27,7 @@ To train and evaluate the model the &amp;ldquo;Columbia Dogs with Parts” datas
     <item>
       <title>Sensor Data Classification for Occupancy Detection</title>
       <link>http://yerbolaussat.github.io/project/occupancy-detection/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/occupancy-detection/</guid>
       <description>Accurate determination of office occupancy is an important problem, the solution to which could enable many compelling applications. Heating, ventilation and air conditioning (HVAC) as well as lighting are two major energy consumers in buildings. Previous studies showed that implementing demand driven lighting and HVAC operations could substantially reduce building energy consumption. However, such solutions rely on accurate occupancy information.
@@ -37,7 +37,7 @@ This study evaluates the accuracy of the prediction of occupancy in an office ro
     <item>
       <title>Handwritten digit recognition with k-NN</title>
       <link>http://yerbolaussat.github.io/project/mnist-with-knn/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/mnist-with-knn/</guid>
       <description>Python implementation of k nearest neighbors classification algorithm.
@@ -50,7 +50,7 @@ See Code</description>
     <item>
       <title>Handwritten digit recognition with EM algorithm for GMM</title>
       <link>http://yerbolaussat.github.io/project/mnist-gmm/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/mnist-gmm/</guid>
       <description>Expectation Maximization (EM) algorithm for Gaussian Mixture Model is derived and implemented. Then, the algorithm is applied to handwritten digit classification problem with MNIST data set.
@@ -62,7 +62,7 @@ See Code</description>
     <item>
       <title>Image Classification with (Kernel) Logistic Regression</title>
       <link>http://yerbolaussat.github.io/project/cifar-log-regression/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/cifar-log-regression/</guid>
       <description>First, Newton algorithm for logistic regression is derived and implemented. Then, the algorithm is applied to image classification problem on CIFAR-10 data set. Two strategies for using binary classifier for multi-class classification are used:
@@ -75,7 +75,7 @@ All results are summarized in a write-up.</description>
     <item>
       <title>Prediction of Boston Housing Prices with Linear Regression</title>
       <link>http://yerbolaussat.github.io/project/boston-housing/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/boston-housing/</guid>
       <description>Python implementation of Ridge and Lasso regression algorithms.
@@ -88,7 +88,7 @@ See Code</description>
     <item>
       <title>Spam detection with Perceptron and Winnow Learning algorithms</title>
       <link>http://yerbolaussat.github.io/project/spam-detection/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/spam-detection/</guid>
       <description>Python implementation of Perceptron and Winnow learning algorithms.
@@ -101,7 +101,7 @@ See Code</description>
     <item>
       <title>Text classification with Decision Trees and Naive Bayes</title>
       <link>http://yerbolaussat.github.io/project/text-classification/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/text-classification/</guid>
       <description>See Code
@@ -113,7 +113,7 @@ A training set and test set of articles with their correct newsgroup label were 
     <item>
       <title>Variable Elimination Algorithm</title>
       <link>http://yerbolaussat.github.io/project/var-ilimination/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
       <guid>http://yerbolaussat.github.io/project/var-ilimination/</guid>
       <description></description>
