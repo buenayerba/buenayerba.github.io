@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Yerbol Aussat</title>
-    <link>http://yerbolaussat.github.io/tags/research/</link>
+    <link>http://buenayerba.github.io/tags/research/</link>
     <description>Recent content in Research on Yerbol Aussat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 20 May 2018 00:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://yerbolaussat.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://buenayerba.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Smart Lighting (IoT)</title>
-      <link>http://yerbolaussat.github.io/project/smart-lighting/</link>
+      <link>http://buenayerba.github.io/project/smart-lighting/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/smart-lighting/</guid>
+      <guid>http://buenayerba.github.io/project/smart-lighting/</guid>
       <description>In Progress &amp;hellip;    Lighting load accounts for approximately one third of the energy consumption in modern buildings. Thus, it is important to reduce this load, ideally without compromising comfort of building occupants.
 We design a power-optimal lighting control system that takes into account both occupancy and daylight changes, based on input from multiple sensors located at each work surface. We came up with a linear-programming-based control algorithm that minimizes the power consumption, while dynamically accommodating heterogeneous illuminance requirements and changes in occupancy.</description>
     </item>
     
     <item>
       <title>Dog Breed Identification</title>
-      <link>http://yerbolaussat.github.io/project/dog-classification/</link>
+      <link>http://buenayerba.github.io/project/dog-classification/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
+      <guid>http://buenayerba.github.io/project/dog-classification/</guid>
       <description>See Report
 See Code
 In this project we attempted to build a classifier capable of identifying a dog’s breed based on its photo. Considering that on a high level dogs of different breeds can look very similar, it is a challenging task even for humans.
@@ -36,20 +36,20 @@ To train and evaluate the model the &amp;ldquo;Columbia Dogs with Parts” datas
     
     <item>
       <title>Sensor Data Classification for Occupancy Detection</title>
-      <link>http://yerbolaussat.github.io/project/occupancy-detection/</link>
+      <link>http://buenayerba.github.io/project/occupancy-detection/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/occupancy-detection/</guid>
+      <guid>http://buenayerba.github.io/project/occupancy-detection/</guid>
       <description>Accurate determination of office occupancy is an important problem, the solution to which could enable many compelling applications. Heating, ventilation and air conditioning (HVAC) as well as lighting are two major energy consumers in buildings. Previous studies showed that implementing demand driven lighting and HVAC operations could substantially reduce building energy consumption. However, such solutions rely on accurate occupancy information.
 This study evaluates the accuracy of the prediction of occupancy in an office room using data from temperature, light, humidity and carbon dioxide sensor measurements with different statistical classification methods using the open source Python Scikit-Learn library.</description>
     </item>
     
     <item>
       <title>Static corrosion of steel alloys in liquid metals</title>
-      <link>http://yerbolaussat.github.io/project/static-corrosion-testing/</link>
+      <link>http://buenayerba.github.io/project/static-corrosion-testing/</link>
       <pubDate>Mon, 20 May 2013 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/static-corrosion-testing/</guid>
+      <guid>http://buenayerba.github.io/project/static-corrosion-testing/</guid>
       <description>See Poster
 See Publication 1
 See Publication 2

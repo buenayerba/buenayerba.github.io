@@ -2,113 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Yerbol Aussat</title>
-    <link>http://yerbolaussat.github.io/home/</link>
+    <link>http://buenayerba.github.io/home/</link>
     <description>Recent content in Homes on Yerbol Aussat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://yerbolaussat.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://buenayerba.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://yerbolaussat.github.io/home/about/</link>
+      <link>http://buenayerba.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/about/</guid>
+      <guid>http://buenayerba.github.io/home/about/</guid>
       <description>I recently completed my graduate studies at the David R. Cheriton School of Computer Science, University of Waterloo, where I was a member of the ISS4E research group, supervised by Prof. S. Keshav. I also hold a Bachelor of Science degree in mechanical engineering, materials science and nuclear physics from UC Berkeley.</description>
     </item>
     
     <item>
       <title>Industry experience</title>
-      <link>http://yerbolaussat.github.io/home/industry/</link>
+      <link>http://buenayerba.github.io/home/industry/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/industry/</guid>
+      <guid>http://buenayerba.github.io/home/industry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>http://yerbolaussat.github.io/home/publications_selected/</link>
+      <link>http://buenayerba.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/publications_selected/</guid>
+      <guid>http://buenayerba.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://yerbolaussat.github.io/home/publications/</link>
+      <link>http://buenayerba.github.io/home/publications/</link>
       <pubDate>Sun, 20 Apr 2014 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/publications/</guid>
+      <guid>http://buenayerba.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://yerbolaussat.github.io/home/teaching/</link>
+      <link>http://buenayerba.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/teaching/</guid>
+      <guid>http://buenayerba.github.io/home/teaching/</guid>
       <description>I was a teaching assistant for the following courses at University of Waterloo:
  CS 234: Data Types and Structures CS 240: Data Structures and Data Management CS 115: Introduction to Computer Science  </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://yerbolaussat.github.io/home/projects/</link>
+      <link>http://buenayerba.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/projects/</guid>
+      <guid>http://buenayerba.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://yerbolaussat.github.io/home/talks/</link>
+      <link>http://buenayerba.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/talks/</guid>
+      <guid>http://buenayerba.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://yerbolaussat.github.io/home/posts/</link>
+      <link>http://buenayerba.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/posts/</guid>
+      <guid>http://buenayerba.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://yerbolaussat.github.io/home/research/</link>
+      <link>http://buenayerba.github.io/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/research/</guid>
+      <guid>http://buenayerba.github.io/home/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>http://yerbolaussat.github.io/home/tags/</link>
+      <link>http://buenayerba.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/tags/</guid>
+      <guid>http://buenayerba.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://yerbolaussat.github.io/home/contact/</link>
+      <link>http://buenayerba.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/home/contact/</guid>
+      <guid>http://buenayerba.github.io/home/contact/</guid>
       <description></description>
     </item>
     

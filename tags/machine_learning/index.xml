@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine_learning on Yerbol Aussat</title>
-    <link>http://yerbolaussat.github.io/tags/machine_learning/</link>
+    <link>http://buenayerba.github.io/tags/machine_learning/</link>
     <description>Recent content in Machine_learning on Yerbol Aussat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://yerbolaussat.github.io/tags/machine_learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://buenayerba.github.io/tags/machine_learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dog Breed Identification</title>
-      <link>http://yerbolaussat.github.io/project/dog-classification/</link>
+      <link>http://buenayerba.github.io/project/dog-classification/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
+      <guid>http://buenayerba.github.io/project/dog-classification/</guid>
       <description>See Report
 See Code
 In this project we attempted to build a classifier capable of identifying a dog’s breed based on its photo. Considering that on a high level dogs of different breeds can look very similar, it is a challenging task even for humans.
@@ -26,20 +26,20 @@ To train and evaluate the model the &amp;ldquo;Columbia Dogs with Parts” datas
     
     <item>
       <title>Sensor Data Classification for Occupancy Detection</title>
-      <link>http://yerbolaussat.github.io/project/occupancy-detection/</link>
+      <link>http://buenayerba.github.io/project/occupancy-detection/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/occupancy-detection/</guid>
+      <guid>http://buenayerba.github.io/project/occupancy-detection/</guid>
       <description>Accurate determination of office occupancy is an important problem, the solution to which could enable many compelling applications. Heating, ventilation and air conditioning (HVAC) as well as lighting are two major energy consumers in buildings. Previous studies showed that implementing demand driven lighting and HVAC operations could substantially reduce building energy consumption. However, such solutions rely on accurate occupancy information.
 This study evaluates the accuracy of the prediction of occupancy in an office room using data from temperature, light, humidity and carbon dioxide sensor measurements with different statistical classification methods using the open source Python Scikit-Learn library.</description>
     </item>
     
     <item>
       <title>Handwritten digit recognition with k-NN</title>
-      <link>http://yerbolaussat.github.io/project/mnist-with-knn/</link>
+      <link>http://buenayerba.github.io/project/mnist-with-knn/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/mnist-with-knn/</guid>
+      <guid>http://buenayerba.github.io/project/mnist-with-knn/</guid>
       <description>Python implementation of k nearest neighbors classification algorithm.
 The algorithm is applied to the problem of classifying handwritten digits from images. The performance of the algorithm with different number of neighbors is examined. The results are summarized in a write-up.
 MNIST data set is used in this experiment.
@@ -49,10 +49,10 @@ See Code</description>
     
     <item>
       <title>Handwritten digit recognition with EM algorithm for GMM</title>
-      <link>http://yerbolaussat.github.io/project/mnist-gmm/</link>
+      <link>http://buenayerba.github.io/project/mnist-gmm/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/mnist-gmm/</guid>
+      <guid>http://buenayerba.github.io/project/mnist-gmm/</guid>
       <description>Expectation Maximization (EM) algorithm for Gaussian Mixture Model is derived and implemented. Then, the algorithm is applied to handwritten digit classification problem with MNIST data set.
 Derivation and results are summarized in a write-up.
 See a write-up with experiment results.
@@ -61,10 +61,10 @@ See Code</description>
     
     <item>
       <title>Image Classification with (Kernel) Logistic Regression</title>
-      <link>http://yerbolaussat.github.io/project/cifar-log-regression/</link>
+      <link>http://buenayerba.github.io/project/cifar-log-regression/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/cifar-log-regression/</guid>
+      <guid>http://buenayerba.github.io/project/cifar-log-regression/</guid>
       <description>First, Newton algorithm for logistic regression is derived and implemented. Then, the algorithm is applied to image classification problem on CIFAR-10 data set. Two strategies for using binary classifier for multi-class classification are used:
  One-vs-All strategy
  One-vs-One strategy Results are summarized in a write-up.
@@ -74,10 +74,10 @@ All results are summarized in a write-up.</description>
     
     <item>
       <title>Prediction of Boston Housing Prices with Linear Regression</title>
-      <link>http://yerbolaussat.github.io/project/boston-housing/</link>
+      <link>http://buenayerba.github.io/project/boston-housing/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/boston-housing/</guid>
+      <guid>http://buenayerba.github.io/project/boston-housing/</guid>
       <description>Python implementation of Ridge and Lasso regression algorithms.
 Performance of the two algorithms on predicting housing prices in Boston is analyzed and compared. The effect of regularization is studied. All results are summarized in a write-up.
 The Boston house-price data set is used in this experiment.
@@ -87,10 +87,10 @@ See Code</description>
     
     <item>
       <title>Spam detection with Perceptron and Winnow Learning algorithms</title>
-      <link>http://yerbolaussat.github.io/project/spam-detection/</link>
+      <link>http://buenayerba.github.io/project/spam-detection/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/spam-detection/</guid>
+      <guid>http://buenayerba.github.io/project/spam-detection/</guid>
       <description>Python implementation of Perceptron and Winnow learning algorithms.
 Performance of the two algorithms on the problem of spam detection is analyzed and compared. All results are summarized in a write-up.
 Spambase data set is used in this experiment.
@@ -100,10 +100,10 @@ See Code</description>
     
     <item>
       <title>Text classification with Decision Trees and Naive Bayes</title>
-      <link>http://yerbolaussat.github.io/project/text-classification/</link>
+      <link>http://buenayerba.github.io/project/text-classification/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/text-classification/</guid>
+      <guid>http://buenayerba.github.io/project/text-classification/</guid>
       <description>See Code
 See write-up
 Text categorization is an important task in natural language processing and information retrieval. For instance, news articles, emails or blogs are often classified by topics. I implemented a decision tree algorithm and a naive Bayes classification algorithm in Python to learn classifiers that can assign a newsgroup topic to any article.
@@ -112,10 +112,10 @@ A training set and test set of articles with their correct newsgroup label were 
     
     <item>
       <title>Variable Elimination Algorithm</title>
-      <link>http://yerbolaussat.github.io/project/var-ilimination/</link>
+      <link>http://buenayerba.github.io/project/var-ilimination/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/var-ilimination/</guid>
+      <guid>http://buenayerba.github.io/project/var-ilimination/</guid>
       <description></description>
     </item>
     

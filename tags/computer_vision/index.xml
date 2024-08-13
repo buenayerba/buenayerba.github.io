@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer_vision on Yerbol Aussat</title>
-    <link>http://yerbolaussat.github.io/tags/computer_vision/</link>
+    <link>http://buenayerba.github.io/tags/computer_vision/</link>
     <description>Recent content in Computer_vision on Yerbol Aussat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://yerbolaussat.github.io/tags/computer_vision/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://buenayerba.github.io/tags/computer_vision/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Book-AR: Augmented Reality for Books on a Bookshelf</title>
-      <link>http://yerbolaussat.github.io/project/ar-bookspine/</link>
+      <link>http://buenayerba.github.io/project/ar-bookspine/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/ar-bookspine/</guid>
+      <guid>http://buenayerba.github.io/project/ar-bookspine/</guid>
       <description>See Report
 See Code
 Retrieving information about books on a bookshelf by simply pointing a camera at them could make the library and book- store browsing experience more convenient and effective. This paper presents Book-AR, an interactive real-time augmented reality (AR) system that augments books while they are on a bookshelf. Our system recognizes a desired book by its spine, and displays an AR menu with relevant book information, such as genre, ratings, prices and similar books.</description>
@@ -25,10 +25,10 @@ Retrieving information about books on a bookshelf by simply pointing a camera at
     
     <item>
       <title>Dog Breed Identification</title>
-      <link>http://yerbolaussat.github.io/project/dog-classification/</link>
+      <link>http://buenayerba.github.io/project/dog-classification/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/dog-classification/</guid>
+      <guid>http://buenayerba.github.io/project/dog-classification/</guid>
       <description>See Report
 See Code
 In this project we attempted to build a classifier capable of identifying a dog’s breed based on its photo. Considering that on a high level dogs of different breeds can look very similar, it is a challenging task even for humans.
@@ -37,10 +37,10 @@ To train and evaluate the model the &amp;ldquo;Columbia Dogs with Parts” datas
     
     <item>
       <title>AR Video Player</title>
-      <link>http://yerbolaussat.github.io/project/ar-video-player/</link>
+      <link>http://buenayerba.github.io/project/ar-video-player/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/ar-video-player/</guid>
+      <guid>http://buenayerba.github.io/project/ar-video-player/</guid>
       <description>Interactive AR platform that can play videos on any flat surface.
 See Code
   </description>
@@ -48,10 +48,10 @@ See Code
     
     <item>
       <title>Fingertip and Hand Tracking</title>
-      <link>http://yerbolaussat.github.io/project/k-curv/</link>
+      <link>http://buenayerba.github.io/project/k-curv/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/k-curv/</guid>
+      <guid>http://buenayerba.github.io/project/k-curv/</guid>
       <description>My implementation of k-curvature algorithm for hand and fingertip tracking.
 See Slides
 See Code
@@ -60,10 +60,10 @@ See Code
     
     <item>
       <title>Mimic-Emoji Game</title>
-      <link>http://yerbolaussat.github.io/project/mimic-emoji/</link>
+      <link>http://buenayerba.github.io/project/mimic-emoji/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/project/mimic-emoji/</guid>
+      <guid>http://buenayerba.github.io/project/mimic-emoji/</guid>
       <description>Mimic-Emoji is a game in which a player&amp;rsquo;s goal is to mimic different emoji faces that appear onscreen. If a player successfully mimics an emoji face, he earns a score, and the guessed emoji face is augmented on the player&amp;rsquo;s face.
 This game uses Microsoft Emotion API that takes a facial expression in an image as an input, and returns the confidence across a set of emotions for each face in the image.</description>
     </item>

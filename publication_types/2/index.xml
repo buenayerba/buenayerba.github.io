@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Yerbol Aussat</title>
-    <link>http://yerbolaussat.github.io/publication_types/2/</link>
+    <link>http://buenayerba.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Yerbol Aussat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://yerbolaussat.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://buenayerba.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A power-efficient self-calibrating smart lighting system</title>
-      <link>http://yerbolaussat.github.io/publication/aussat_et_al/</link>
+      <link>http://buenayerba.github.io/publication/aussat_et_al/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/publication/aussat_et_al/</guid>
+      <guid>http://buenayerba.github.io/publication/aussat_et_al/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxidative passivation of Fe–Cr–Al steels in lead-bismuth eutectic under oxygen-controlled static conditions at 700° and 800 °C</title>
-      <link>http://yerbolaussat.github.io/publication/popovic_et_al/</link>
+      <link>http://buenayerba.github.io/publication/popovic_et_al/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/publication/popovic_et_al/</guid>
+      <guid>http://buenayerba.github.io/publication/popovic_et_al/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxide scale formation on 316L and FeCrAl steels exposed to oxygen controlled static LBE at temperatures up to 800 °C</title>
-      <link>http://yerbolaussat.github.io/publication/oxide-scale-formation/</link>
+      <link>http://buenayerba.github.io/publication/oxide-scale-formation/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/publication/oxide-scale-formation/</guid>
+      <guid>http://buenayerba.github.io/publication/oxide-scale-formation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lead-bismuth eutectic as a high temperature heat-transport fluid for thermal solar power</title>
-      <link>http://yerbolaussat.github.io/publication/lbe-for-solar/</link>
+      <link>http://buenayerba.github.io/publication/lbe-for-solar/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0600</pubDate>
       
-      <guid>http://yerbolaussat.github.io/publication/lbe-for-solar/</guid>
+      <guid>http://buenayerba.github.io/publication/lbe-for-solar/</guid>
       <description></description>
     </item>
     
